@@ -2,5 +2,5 @@
 .idea
 *.iml
 *.class
-*Test.java
+*SpringBootSkyTakeOutTest.java
 **/test/
