@@ -1,2 +1,4 @@
-package com.sky.annotation;public class AutoFill {
+package com.sky.annotation;
+
+public @interface AutoFill {
 }
