@@ -9,6 +9,11 @@ sky:
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
     access-key-id: LTAI5tKeynBbTkuiDSUBKQEv
-    access-key-secret: 
+    access-key-secret:
     bucket-name: sky0614
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 10
 
