@@ -33,4 +33,10 @@ sky:
     notify-url:
     # 退款成功的回调地址
     refund-notify-url:
+  shop:
+    # 外卖商家店铺地址
+    address: 北京市
+  baidu:
+    # 百度地图授权码
+    ak:
 
